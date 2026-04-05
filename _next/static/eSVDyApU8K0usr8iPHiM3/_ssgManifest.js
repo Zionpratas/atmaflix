@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fassistir\u002F[id]","\u002Fconteudo\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
